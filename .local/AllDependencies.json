@@ -1599,9 +1599,9 @@
     "restore": {
       "projectUniqueName": "Exercise1",
       "projectName": "Exercise1",
-      "projectPath": "C:\\Users\\home\\Documents\\UiPath\\Exercise1\\.local",
+      "projectPath": "F:\\UI Path\\Exercise1\\.local",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\home\\Documents\\UiPath\\Exercise1\\.local"
+      "outputPath": "F:\\UI Path\\Exercise1\\.local"
     },
     "frameworks": {
       "net461": {
